@@ -49,6 +49,7 @@
     header .header-bottom{
         text-align: center;
         margin-top: 20px;
+        border-top: thin solid black;
     }
 
     header .header-bottom nav{
